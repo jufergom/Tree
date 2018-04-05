@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Node.cpp
+Node.h
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Node.h
+
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Node.h
+iostream
+-
+
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Tree.cpp
+Tree.h
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Tree.h
+
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Tree.h
+iostream
+-
+Node.h
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Node.h
+
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/main.cpp
+iostream
+-
+Tree.h
+C:/Unitec/Estructura de Datos 1 (segundo intento)/Tareas propias/Tree/Tree.h
+
